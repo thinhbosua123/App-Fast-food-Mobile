@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "696255700596",
+    "project_id": "fast-food-app-f72b2",
+    "storage_bucket": "fast-food-app-f72b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696255700596:android:f9d849573521f3876e7b21",
+        "android_client_info": {
+          "package_name": "com.example.food_app_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb32uPl5GInZMq-vkqPlTCgq466p2Av1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
